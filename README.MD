@@ -41,8 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema Maçonaria, o ebook é para pessoas com interesse em conhecer mais sobre Maçonaria, o título deve ser épico e curto, e tenha uma temática formal no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook, com foco em maçonaria, listando as principais questões sobre o que é a Maçonaria, em formato de perguntas e respostas {REGRAS} >Explique sempre de maneira simples
->Deixe o texto enxuto >Sempre deixe um texto sugestivo por tópico                   |
+| conteúdo | Faça um texto para ebook, com foco em maçonaria, listando as principais questões sobre o que é a Maçonaria, em formato de perguntas e respostas {REGRAS} >Explique sempre de maneira simples >Deixe o texto enxuto >Sempre deixe um texto sugestivo por tópico                   |
 
 
 Midjourney：
