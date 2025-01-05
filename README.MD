@@ -40,15 +40,16 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema Maçonaria, o ebook é para pessoas com interesse em conhecer mais sobre Maçonaria, o título deve ser épico e curto, e tenha uma temática formal no título, me liste 5 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook, com foco em maçonaria, listando as principais questões sobre o que é a Maçonaria, em formato de perguntas e respostas {REGRAS} >Explique sempre de maneira simples
+>Deixe o texto enxuto >Sempre deixe um texto sugestivo por tópico                   |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | crie uma imagem do símbolo universal da maçonaria em um tema moderno                   |
 
 ## ✨ Features
 
